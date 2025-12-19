@@ -28,3 +28,5 @@ C:\Users\ASUS\source\repos\EcommerceMVC\EcommerceMVC\obj\Debug\net8.0\EcommerceM
 C:\Users\ASUS\source\repos\EcommerceMVC\EcommerceMVC\obj\Debug\net8.0\ref\EcommerceMVC.dll
 C:\Users\ASUS\source\repos\EcommerceMVC\EcommerceMVC\obj\Debug\net8.0\EcommerceMVC.RazorAssemblyInfo.cache
 C:\Users\ASUS\source\repos\EcommerceMVC\EcommerceMVC\obj\Debug\net8.0\EcommerceMVC.RazorAssemblyInfo.cs
+C:\Users\ASUS\source\repos\EcommerceMVC\EcommerceMVC\bin\Debug\net8.0\EcommerceMVC.staticwebassets.runtime.json
+C:\Users\ASUS\source\repos\EcommerceMVC\EcommerceMVC\obj\Debug\net8.0\EcommerceMVC.sourcelink.json
